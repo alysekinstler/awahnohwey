@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohthaengi.tgcutn.com.ar/sitemap.xml
